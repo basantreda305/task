@@ -232,7 +232,7 @@ p {
 .navbar-default .navbar-nav > li {
   font-size: 14px;
   margin: 25px 20px 0;
-  padding: 5 10px;
+  padding:  10px;
   background: none;
   cursor: pointer;
   position: relative;
@@ -388,7 +388,7 @@ p {
 }
 .hero .skills .skills-progress {
   width: 100%;
-  padding: 5px 10px;
+  padding: 10px;
   border-radius: 5px;
   background: #f7f7f7;
   -webkit-box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.15) inset;
@@ -789,7 +789,7 @@ p {
 .bgs .side-bar .widget .widget-title h6:after {
   content: "";
   width: 30px;
-  height: 1px;
+  height: 2px;
   background: #000;
   position: absolute;
   bottom: 0;
@@ -820,7 +820,7 @@ p {
 }
 
 .contact .info .itm {
-  margin-bottom: 30px;
+  margin-bottom: 25px;
 }
 .contact .info .itm:hover .icon {
   background: #1c1c1c;
@@ -835,7 +835,7 @@ p {
   background: #f4f4f4;
   border-radius: 50%;
   -webkit-transition: all 0.5s;
-  transition: all 0.5s;
+  transition: all 1s;
 }
 .contact .info .itm h6 {
   font-weight: 700;
